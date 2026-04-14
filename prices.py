@@ -2,7 +2,7 @@
 Multi-Ticker Price & Dividend Agent — HTML Output
 """
 # Install yfinance if not already installed
-!pip install yfinance -q
+#!pip install yfinance -q
 
 import yfinance as yf
 import pandas as pd
