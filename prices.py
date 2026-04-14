@@ -7,7 +7,7 @@ Multi-Ticker Price & Dividend Agent — HTML Output
 import yfinance as yf
 import pandas as pd
 from datetime import datetime
-from IPython.display import display, HTML
+#from IPython.display import display, HTML
 
 def fetch_ticker_data(symbol):
     """Fetch price and dividend data for a single ticker."""
